@@ -1,4 +1,9 @@
 # DINO JUMP - FINAL PROJECT KELOMPOK 11
+# FARREL DANENDRA ANDHIKA PUTRA 23.11.5812
+# GALANG YUDHA PRATAMA 23.11.5831
+# MUHAMMAD GALANG PUTRA ARJUNA PRATAMA 23.11.5825
+# MUHAMMAD AQSHAL WIJAYA 23.11.5867
+
 # DESKRIPSI SINGKAT
 Perkembangan teknologi telah memicu minat besar dalam pengembangan permainan komputer. Salah satu permainan paling sederhana adalah Dino Coklat. Pembuatan proyek akhir berupa permainan Dino Coklat sederhana merupakan upaya untuk memahami dasar-dasar pembuatan game, serta untuk melatih keterampilan pemrograman,DINO JUMP adalah game yang menawarkan pengalaman bermain seru dan menantang. Dikembangkan menggunakan bahasa pemrograman C++, permainan ini menghadirkan karakter utama berupa dinosaurus yang harus menghindari kayu yang datang dari kanan layar menuju kiri. Pemain dapat mengendalikan dino dengan melakukan lompatan menggunakan klik space. Tantangannya terletak pada keahlian pemain dalam mengatur waktu lompatan agar dapat menghindari kayu yang datang kearah  dino.
 
